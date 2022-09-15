@@ -1,0 +1,43 @@
+Olá, apenas o arquivo "visualizarstory.py" está funcionando perfeitamente!
+
+você deve apenas copiar o código e jogar no seu editor de código, no meu caso é o Visual Studio Code.
+
+Primeiro passo: Caso ele de um erro, você deve adicionar um comentario (#).
+
+O Código ira vir desse jeito:
+
+import glob
+
+cookie_del = glob.glob("config/*cookie.json")
+os.remove(cookie_del[0])
+
+Você precisa comentar as 3 linhas, desse jeito:
+
+#import glob
+
+#cookie_del = glob.glob("config/*cookie.json")
+#os.remove(cookie_del[0])
+
+
+Depois que fizer tudo isso, você deve colocar seu usuario:
+
+exemplo: thiisp
+
+Ele ira pedir a senha, não ira aparecer quando você digitar, mas não se preocupe!
+
+exemplo: senhaahahah
+
+Apos isso ele ira perguntar se você deseja adicionar outra conta, faça a escolha!
+
+apos ter adicionado outra conta ou apenas ter continuado, você ira selecionar a conta que voce deseja, geralmente quando você adiciona apenas uma conta, você
+deverá apertar o numero " 1 " e dar enter.
+
+O Código irá executar e começara a dar erros, OBS: Isso é completamente normal, pois ele estará fazendo um request com o Instagram.
+
+Apos dar muitos erros, ele ira iniciar e começará visualizar storys de pessoas aleatórias :)
+
+Obrigado por ler até aqui, divirta-se com o script hehehehe!
+
+Instagram: @thiisp
+Site: https://www.thiisp.com/
+
