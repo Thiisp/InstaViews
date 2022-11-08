@@ -31,4 +31,25 @@
 <br>
 <a> Steam: </a>
 <a href="https://www.google.com/url?q=https%3A%2F%2Fsteamcommunity.com%2Fid%2FThiiR7%2F&sa=D">★󠁳 Thillxy ™</a>
-
+<h2> Venda de Seguidores </h2>
+<a> Tabela: </a>
+<a>1.000 Seguidores Brasileiros - R$20,00</a>
+<br>
+<a>1.000 Seguidores Mundiais - R$6,00</a>
+<br>
+<a>1.000 Visualizações nos Reels - R$3,00</a>
+<br>
+<a>100 Curtidas - R$1,00</a>
+<br>
+<br>
+<a>100% Confiavel</a>
+<br>
+<a>Entrega Imediata!</a>
+<br>
+<a>Preço Beneficio</a>
+<br>
+<a>O MELHOR DO MERCADO!!!!</a>
+<br>
+<br>
+<a>Instagram de Vendas:</a>
+<a href="https://www.instagram.com/thii_followers"> @Thii_followers</a>
